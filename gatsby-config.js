@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/",
+  pathPrefix: "/sanku",
   siteMetadata: {
     title: "Honami",
     siteUrl: "https://oneesama1994.github.io",
