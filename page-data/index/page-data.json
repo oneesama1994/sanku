@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"thumbnails":{"edges":[{"node":{"publicURL":"/sanku/static/7d62a7e5bd11bb0ab4783d2b7c03a837/thumbnail-650-918.pbew","relativePath":"Boku Wa Tsuma Ga Netorare Nando 1/thumbnail-650-918.pbew","name":"thumbnail-650-918"}},{"node":{"publicURL":"/sanku/static/a1ed6041f939f58b6b8d0cfbb8ff7957/thumbnail-650-920.pbew","relativePath":"Boku Wa Tsuma Ga Netorare Nando 2/thumbnail-650-920.pbew","name":"thumbnail-650-920"}},{"node":{"publicURL":"/sanku/static/8e9d34006d36d08dcc98a50b314f3132/thumbnail-650-920.pbew","relativePath":"Boku Wa Tsuma Ga Netorare Nando 3/thumbnail-650-920.pbew","name":"thumbnail-650-920"}}]}},"pageContext":{}},
+    "staticQueryHashes": []}
